@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Vision+Engineer;Deep+Learning+Researcher;AnimalCLEF+2026+%F0%9F%A5%87+1st+Place+Worldwide;Building+Production+AI+Systems;Medical+AI+%7C+Multi-Object+Tracking+%7C+Open-Set+Recognition" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-bassat-18">
+  <a href="[https://www.linkedin.com/in/mohamed-bassat-18](https://www.linkedin.com/in/mohamed-bassat-18487a2b5/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/BASSAT-BASSAT">
