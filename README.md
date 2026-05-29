@@ -39,128 +39,26 @@ I'm a Computer Science student at **Alexandria University** focused on building 
 - Multi-Object Tracking
 - Representation Learning
 - Open-Set Recognition
-- Vision-Language Systems
 
-I enjoy combining research with engineering to build systems that work in real-world conditions — not just notebooks.
-
-Currently working on:
-- Wildlife Re-Identification
-- Open-Set AI Systems
-- Multi-Modal Perception
-- Real-Time AI Infrastructure
-- Medical AI Copilots
-- Foundation Models for Vision
+I enjoy combining research with engineering to build systems that work in real-world conditions — not just notebooks. Currently focusing on Wildlife Re-Identification, Open-Set AI Systems, and Real-Time AI Infrastructure.
 
 ---
 
-# Experience
+# Top Projects
 
-## 🧠 Computer Vision R&D Engineer — AIn-Guard
-**Austria/Germany • Remote**
-
-- Building privacy-preserving surveillance and anomaly detection systems
-- Designing scalable AI perception pipelines for safety-critical environments
-- Deploying production CV systems using FastAPI, Docker, AWS, and TensorRT
-
----
-
-## 🤖 AI Engineer & CV Team Lead — M.I.A Robotics
-
-- Leading teams building:
-  - YOLO-based perception systems
-  - Animal Re-Identification pipelines
-  - Vision-Language systems
-  - Real-time robotics perception
-- Architecting multi-modal AI pipelines for autonomous robotics platforms
-
----
-
-# Featured Projects
-
-## 🥇 AnimalCLEF 2026 — 1st Place Worldwide
-
-### Open-Set Wildlife Re-Identification @ CVPR/CLEF
-
-Built a state-of-the-art pipeline for:
-- Animal Re-Identification
-- Novel Individual Discovery
-- Open-Set Recognition
-- Cross-Species Generalization
-
-### Highlights
-- 🥇 Ranked **1st Worldwide**
-- ⚡ Ensemble system combining **MiewID + WildFusion**
-- 🧠 Optimized for large-scale retrieval & clustering
-- 📈 Focused on ARI optimization under real-world conditions
-- 📄 Preparing CLEF 2026 Working Notes paper submission
-
-### Tech
-`PyTorch` `Metric Learning` `Transformers` `Open-Set Recognition` `Retrieval Systems`
-
----
-
-## 🎯 Fawry AI Competition — 3rd Place
-
-### Multi-Object Tracking & Re-Identification
-
-Built a high-performance tracking system using:
-- YOLOX
-- FastReID
-- SphereFace2
-
-### Results
-- 81% HOTA
-- 90% Face Accuracy
-- Reduced ID switches by 45%
-
-### Focus Areas
-- MOT
-- Face Re-Identification
-- Real-Time Tracking
-- Robust Identity Association
-
----
-
-## 🏥 CLINITO AI — 1st Place Winner
-
-### AI Medical Copilot
-
-Developed a multi-modal medical assistant integrating:
-- Medical-SAM
-- RAG pipelines
-- Voice interaction systems
-- Clinical image understanding
-
-### Features
-- Voice-to-image workflows
-- Grounded clinical responses
-- Medical segmentation
-- AI-assisted diagnostics
-
-### Stack
-`SAM` `RAG` `Botpress` `Convex` `ElevenLabs` `LLMs`
-
----
-
-## 🚀 V-Rush — Production CV Pipeline Platform
-
-### Co-Founder & Lead Developer
-
-Built a platform enabling engineers to:
-- Test CV pipelines in real time
-- Deploy segmentation/detection systems
-- Benchmark models visually
-- Experiment with 60+ CV algorithms
-
-### Infrastructure
-- FastAPI
-- Docker
-- Vercel
-- YOLO
-- SAM
-- WebSockets
-
-Used by multiple CV engineers for rapid experimentation and deployment.
+<div align="center">
+  <a href="https://github.com/BASSAT-BASSAT/AnimalCLEF26">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BASSAT-BASSAT&repo=AnimalCLEF26&theme=tokyonight&hide_border=false" alt="AnimalCLEF26"/>
+  </a>
+  <a href="https://github.com/BASSAT-BASSAT/Fawry-Surveillance-Competition">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BASSAT-BASSAT&repo=Fawry-Surveillance-Competition&theme=tokyonight&hide_border=false" alt="Fawry Surveillance Competition"/>
+  </a>
+</div>
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/BASSAT-BASSAT/Ai_Smart_Home">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=BASSAT-BASSAT&repo=Ai_Smart_Home&theme=tokyonight&hide_border=false" alt="AI Smart Home"/>
+  </a>
+</div>
 
 ---
 
@@ -219,16 +117,6 @@ Used by multiple CV engineers for rapid experimentation and deployment.
 - Real-Time AI Systems
 - Multi-Agent AI
 - AI Infrastructure & Deployment
-
----
-
-# Certifications
-
-- Deep Learning Specialization — Andrew Ng
-- Machine Learning Specialization — Andrew Ng
-- AWS Cloud Practitioner
-- Google Cloud ML Engineer
-- DataCamp ML Scientist
 
 ---
 
